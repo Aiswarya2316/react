@@ -1,4 +1,4 @@
-:root {
+/* :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
@@ -65,4 +65,30 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
+} */
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: hsl(0, 88%, 66%);
+}
+
+li {
+  float: left;
+  text-align:center;
+  
+}
+
+li Link {
+  display: block;
+  color: rgb(24, 72, 176);
+  text-align: center;
+  padding: 500px;
+  text-decoration:dotted
+}
+
+li Link:hover {
+  background-color: hsl(0, 16%, 85%);
 }
