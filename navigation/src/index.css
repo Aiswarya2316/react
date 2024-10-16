@@ -67,7 +67,7 @@ button:focus-visible {
   }
 } */
 
-ul {
+/* ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -91,4 +91,4 @@ li Link {
 
 li Link:hover {
   background-color: hsl(0, 16%, 85%);
-}
+} */
